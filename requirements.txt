@@ -1,0 +1,6 @@
+streamlit
+tensorflow==2.16.2; python_version < "3.13"
+tensorflow==2.21.0; python_version >= "3.13"
+pandas
+numpy
+cryptography
